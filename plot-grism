@@ -10,7 +10,7 @@
 
 # N.B. Only supports the 600 lpmm (Filter '6') grism: need to add the 300 lpmm grisms (codes A,3) ASAP
 
-vers = 'plot-grism version 3.01, 13 Dec 2016'
+vers = 'plot-grism version 3.01, 14 Dec 2016'
 
 import numpy,getopt
 from astropy.io import fits  
